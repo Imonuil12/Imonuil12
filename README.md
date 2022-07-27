@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imasuleymanov@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1wy9DP4_UOwSZK3vAasIg8VT15pBsJLsx/edit?usp=sharing&ouid=116858852055299359436&rtpof=true&sd=true](https://docs.google.com/document/d/1wy9DP4_UOwSZK3vAasIg8VT15pBsJLsx/edit?usp=sharing&ouid=116858852055299359436&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1wy9DP4_UOwSZK3vAasIg8VT15pBsJLsx/edit?usp=sharing&ouid=116858852055299359436&rtpof=true&sd=true](https://drive.google.com/file/d/1o1Epuso8yKjyFtjwhvvsBJTcsBFXc7e8/view?usp=sharing)
 
 - ⚡ Fun fact **I love football and playing guitar.**
 
