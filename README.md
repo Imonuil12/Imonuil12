@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on an online musical platform [Echo.tj](https://echo.tj/app/overview)
 
-- 🌱 I’m currently learning Data Science, Machine Learning, R, Python, Pandas and various libraries for data analytics**
+- 🌱 I’m currently learning Data Science, Machine Learning, R, Python, Pandas and various libraries for data analytics.
 
 - 📫 You can reach me via my email: **imasuleymanov@gmail.com**
 
