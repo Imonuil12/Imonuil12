@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on an online musical platform [Echo.tj](https://echo.tj/app/overview)
 
-- 🌱 I’m currently learning **Statistics, R, Python for Data Science and JavaScript**
+- 🌱 I’m currently learning Data Science, Machine Learning, R, Python, Pandas and various libraries for data analytics**
 
-- 💬 Ask me about **Pandas, numPy, Matplotlib**
+- 📫 You can reach me via my email: **imasuleymanov@gmail.com**
 
-- 📫 How to reach me **imasuleymanov@gmail.com**
+- 📄 My resume: [https://docs.google.com/document/d/1wy9DP4_UOwSZK3vAasIg8VT15pBsJLsx/edit?usp=sharing&ouid=116858852055299359436&rtpof=true&sd=true](https://drive.google.com/file/d/1o1Epuso8yKjyFtjwhvvsBJTcsBFXc7e8/view?usp=sharing)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1wy9DP4_UOwSZK3vAasIg8VT15pBsJLsx/edit?usp=sharing&ouid=116858852055299359436&rtpof=true&sd=true](https://drive.google.com/file/d/1o1Epuso8yKjyFtjwhvvsBJTcsBFXc7e8/view?usp=sharing)
-
-- ⚡ Fun fact **I love football and playing guitar.**
+- ⚡ I love playing football!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
