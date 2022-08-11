@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imonuil12&label=Profile%20views&color=0e75b6&style=flat" alt="imonuil12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imonuil12" alt="imonuil12" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 - 🔭 I’m currently working on an online musical platform [Echo.tj](https://echo.tj/app/overview)
@@ -17,7 +16,7 @@
 
 - ⚡ I love playing football!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can also connect with me via:</h3>
 <p align="left">
 <a href="https://twitter.com/imonuil12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imonuil12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imonuil-suleimanov-74525819a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imonuil-suleimanov-74525819a" height="30" width="40" /></a>
