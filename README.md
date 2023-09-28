@@ -1,14 +1,18 @@
 ![MasterHead](https://www.business-agility.com/wp-content/uploads/2018/10/top-banner-2-1920x677.jpg)
 <h1 align="center">Hi 👋, I'm Imonuil Suleimanov</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imonuil12&label=Profile%20views&color=0e75b6&style=flat" alt="imonuil12" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
-
-- 🔭 I’m currently working on an online musical platform [Echo.tj](https://echo.tj/app/overview)
-
-- 🌱 I’m currently learning Data Science, Machine Learning, R, Python, Pandas and various libraries for data analytics.
+ 
+- 🔭 I’m have worked on an online musical platform [Echo.tj](https://echo.tj/app/overview)
+  
+- I have also developed a wordpress website for Mistry Homes company: https://azmistryhomes.com/
+  
+- Besides my studies I have served as the president of my university's student assosiation and led various clubs.
+  
+- 🌱 I’m currently learning Data Science, Machine Learning, R, Python, Pandas and various libraries for data analytics and Machine Learning.
 
 - 📫 You can reach me via my email: **imasuleymanov@gmail.com**
 
