@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
  
-- 🔭 I’m have contributed to the development of online musical platform [Echo.tj](https://echo.tj/app/overview)
+- I’m have contributed to the development of online musical platform [Echo.tj](https://echo.tj/app/overview)
   
 - I have developed a wordpress website for Mistry Homes company: https://azmistryhomes.com/
 
