@@ -16,7 +16,7 @@
   
 - Besides my studies I have served as the president of my high school Aga Khan Lycee and university's student assosiation at the University of Central Asia. Was the footsall team captain leading our team to the national play offs in Kyrgyzstan. Was the founder of Software Developers Club in Khorog Campus.
   
-- 📫 You can reach me via my email: **imasuleymanov@gmail.com**
+- 📫 You can find out more about me and reach me via my LinkedIn: https://www.linkedin.com/in/imonuil-suleimanov/
 
 - 📫 You can find my Data Science profile here at Data Camp: https://www.datacamp.com/profile/imonuilsuleimanov2025
 
