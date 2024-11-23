@@ -1,4 +1,3 @@
-![MasterHead](https://www.business-agility.com/wp-content/uploads/2018/10/top-banner-2-1920x677.jpg)
 <h1 align="center">Hi 👋, I'm Imonuil Suleimanov</h1>
 <h3 align="center">Computer Science Student at ASU</h3>
 
