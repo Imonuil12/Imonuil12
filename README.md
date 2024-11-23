@@ -14,7 +14,7 @@
 
 - I have also developed a website on wix for Rushfunpark entertainment parks in Arizona: https://www.rushfunpark.com/
   
-- Besides my studies I have served as the president of my university's student assosiation at the University of Central Asia, was as the footbzall team captain leading our team to the national play offs in Kyrgyzstan, was the founder of Software Developers Club in Khorog Campus.
+- Besides my studies I have served as the president of my high school Aga Khan Lycee and university's student assosiation at the University of Central Asia. Was the footsall team captain leading our team to the national play offs in Kyrgyzstan. Was the founder of Software Developers Club in Khorog Campus.
   
 - 📫 You can reach me via my email: **imasuleymanov@gmail.com**
 
