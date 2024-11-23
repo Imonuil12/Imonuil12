@@ -23,12 +23,6 @@
 - 📄 My resume: [https://docs.google.com/document/d/1hgC9EMAXd0YFfrSHqi_k-OfhLzKQTEhPVziVWLQgJmY/edit?usp=sharing](https://docs.google.com/document/d/1hgC9EMAXd0YFfrSHqi_k-OfhLzKQTEhPVziVWLQgJmY/edit?usp=sharing)
 
 
-<h3 align="left">You can also connect with me via:</h3>
-<p align="left">
-<a href="https://twitter.com/imonuil12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imonuil12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imonuil-suleimanov-74525819a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imonuil-suleimanov-74525819a" height="30" width="40" /></a>
-<a href="https://instagram.com/imonuil.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imonuil.12" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imonuil12&show_icons=true&locale=en&layout=compact" alt="imonuil12" /></p>
 
