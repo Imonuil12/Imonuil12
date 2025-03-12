@@ -19,4 +19,4 @@
 
 - 📫 You can find my Data Science profile here at Data Camp: https://www.datacamp.com/profile/imonuilsuleimanov2025
 
-- 📄 My resume: [https://docs.google.com/document/d/1hgC9EMAXd0YFfrSHqi_k-OfhLzKQTEhPVziVWLQgJmY/edit?usp=sharing](https://docs.google.com/document/d/1hgC9EMAXd0YFfrSHqi_k-OfhLzKQTEhPVziVWLQgJmY/edit?usp=sharing)
+- 📄 My resume: [https://drive.google.com/file/d/132oBVyBpPCl2rrL4OkceFTZbKpUtmkSI/view?usp=sharing](https://drive.google.com/file/d/132oBVyBpPCl2rrL4OkceFTZbKpUtmkSI/view?usp=sharing)
