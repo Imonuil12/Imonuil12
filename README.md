@@ -7,7 +7,7 @@
  
 - I’m have contributed to the development of online musical platform [Echo.tj](https://echo.tj/app/overview)
   
-- I have developed a wordpress website for Mistry Homes company: https://azmistryhomes.com/
+- I have developed a wordpress website for Mistry Homes company: https://mistryhomes.com/
 
 - I have contributed to the development and running of USA Ismaili Games West website: https://westismailifest.org/
 
